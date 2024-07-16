@@ -45,5 +45,84 @@ The profit has been steadily increased, even in the year 2016 where there is a d
 
 ![Sales and Profit over the year](https://github.com/user-attachments/assets/4a9e05aa-f118-4b28-93dd-8786819823d1)
 
-![Sales and Profit over the quarters](https://github.com/user-attachments/assets/f2bcf9f7-e139-466c-94fc-27d6425e4e04)
+![Sales over the yeras](https://github.com/user-attachments/assets/a388fe37-39fc-4e26-b7c1-3f0b04327f5a)
+
+
++ *Sales and Profit over the quarters*
+It’s important to understand which time period is the most impactful throughout the year for the company. In this way, we would understand when are our best selling and profitable months.
+  
+In future, the company can implement highest resources, make most of the advertisements and implement new strategies during these months. Moreover, it will be easier to forecast the revenue for the upcoming years as we can anticipate similar patterns for sales and profit. Clearly, October, November and December are yielding highest revenue and profit to the company.
+
+![Sales and Profit over the quarters](https://github.com/user-attachments/assets/12a32215-3dbf-4cf4-ae10-9c99f68ceef2)
+
++ *Most revenue collection and profit generation by Segment*
+Out of three customer segments, Consumer segment brings the highest revenue as well as profit, followed by Corporate and Home Office in absolute value.
+
+However, Profit Margin plays an important role in deciding which segment is the most profitable. Profit Margin is the ratio of Profit to Revenue and it indicates the profitability of any product. Surprisingly, Home Office brings most of the profit followed by Corporate and Consumer. 
+
+![sales,profit and profit margin by segment](https://github.com/user-attachments/assets/2cddc3f6-cb18-43de-9722-afab468b27b2)
+
++ *Most revenue collection and profit generation by Region*
+West has the highest sales overall. East is also looking promising. Hence, any new product can get most traction from west and east and it will be interesting to see the customer response to new products.
+
+Similarly, West generates the most of the profit followed by East. However, it’s quite surprising to see that despite Central generating more revenue than south, it’s way behind South in terms of profit. Central region is quite alarming and greater attention has to be paid to this region to identify the reason of low profits.
+
+![Sales by region](https://github.com/user-attachments/assets/4491f330-e171-4508-80d1-c16bee92b91d)
+
+![Profit by region](https://github.com/user-attachments/assets/0eff7489-cfe3-426b-aa42-5dc75f556a07)
+
+To reaffirm the above analysis, it’s interesting to have a look at profit margins. The figures validate above analysis. Profit margins are high in West, East and South in the order. Central has the lowest profit margin.
+
+![sales, profit and profit margin by region](https://github.com/user-attachments/assets/a250b3fd-6e63-438f-9de1-dbbcdd2d5776)
+
++ *Top 10 States by Sales and Profits*
+Below chart shows that the highest selling state is California contributing the most to the West to be the most profitable region followed by New York, Texas and so on.
+
+![top 10 states by sales](https://github.com/user-attachments/assets/8595574e-275b-4b9d-af24-583a2587a299)
+
+Looking at the profit, California secures the first position, followed by New Yok and Washington. Surprisingly, Texas could not make in top 10 despites generating third highest revenue overall. In depth analysis for Texas should be done in order to understand this erratic performance. 
+
+![top 10 states by profit](https://github.com/user-attachments/assets/7d7f875c-3b97-4f45-a558-2d8712c77105)
+
+![sale, profit and profit margin by top states](https://github.com/user-attachments/assets/5f49acdd-a8b8-4cde-9a9b-0cc8b0bbcbd6)
+
+The above table gives brief idea on how the states are converting sales into profit. States such as Texas, Pennsylvania, Illinois and Ohio are loss making and they need immediate attention to improve it. 
+
++ *Bottom 10 States by Sales and Profits*
+Below shows the Lowest selling state North Dakota followed by West Virginia and so on. Further analysis will be carried out on which products are getting sold in these states in order to understand the market demand better.
+
+![bottom 10 state by sale](https://github.com/user-attachments/assets/fdfcd168-ecd8-47fb-abf6-dd8dc143490d)
+
+![top 10 loss making states](https://github.com/user-attachments/assets/e45c7c18-7bde-4878-aec5-dd176e98fc95)
+
+Most alarming state is Texas where we see highest loss despite generating $169k. It’s crucial to understand which products are making the loss over there. 
+
+![sale, profit and profit margin by top states](https://github.com/user-attachments/assets/2bd82b33-610f-4544-8a35-16d89957fdc2)
+
+Despite being in bottom 10 states by sales and profit in absolute terms, most of them have higher profitability than that of top 10 states by sales and profit. This gives us the indication to expand more in these states in order to increase profitability of the company.
+
++ *Top 10 Cities by Sales and Profits*
+Below bar plot shows the top 10 cities by sales where New York city sits at the top followed by Los Angeles, Seattle. This is quite obvious as these are more populous cities than others making it bringing more sales to the company.
+
+![top 10 cities by sale](https://github.com/user-attachments/assets/472e7a82-1ad1-49be-bf14-3f19165f8c23)
+
+![top 10 cities by profit](https://github.com/user-attachments/assets/a17ee475-2559-4eeb-a7da-2f9f8c6be165)
+
+Similarly, profit generation also follows the same pattern for top 4 cities. Philadelphia, Houston, Chicago being moderately high on sale could not make even moderate profits. It’s important to understand what is going wrong in these cities and how can we turn more profits out of sales.
+
++ *Bottom 10 Cities by Sales and Profits*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
