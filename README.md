@@ -43,7 +43,7 @@ There are 11 rows with null values in the column Postal Code. I have removed suc
   
 The profit has been steadily increased, even in the year 2016 where there is a decline in sales. The profit looks quite promising over the years.
 
-<div align="center">![Sales and Profit over the year](https://github.com/user-attachments/assets/4a9e05aa-f118-4b28-93dd-8786819823d1)</div>
+![Sales and Profit over the year](https://github.com/user-attachments/assets/4a9e05aa-f118-4b28-93dd-8786819823d1)
 
 ![Sales and Profit over the quarters](https://github.com/user-attachments/assets/f2bcf9f7-e139-466c-94fc-27d6425e4e04)
 
