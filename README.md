@@ -31,3 +31,9 @@ The Superstore dataset contains below variables:
 | Product Name | Name of the Product |
 | Profit | Profit of the Product|
 | Sales | Sales of the Product |
+
+## Data preparation
+The data contains 9800 rows with 1 row being the header and it has the data for 3 years starting from January 3, 2015 to December 30, 2018 (with reference to Order Date). 
+
+There are 11 rows with null values in the column Postal Code. I have removed such rows to get clear and non-null data which leaves us with 9789 rows. Overall the data is quite clean, reliable and consistent as there are no duplicate values found. 
+
