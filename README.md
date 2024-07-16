@@ -39,6 +39,7 @@ There are 11 rows with null values in the column Postal Code. I have removed suc
 
 ## Analysis
 + *Sales and Profit over the years*
+
   Below table and the line graph (trend line) shows the sales and profit in USD. Staring with USD 480k, the sale has increased to USD 721k.There is a slight drop in the total sales in 2016 but it has steadily increased thereafter. The sale has been increased by 50% over the course of 3 years.
   
 The profit has been steadily increased, even in the year 2016 where there is a decline in sales. The profit looks quite promising over the years.
@@ -49,6 +50,7 @@ The profit has been steadily increased, even in the year 2016 where there is a d
 
 
 + *Sales and Profit over the quarters*
+
 It’s important to understand which time period is the most impactful throughout the year for the company. In this way, we would understand when are our best selling and profitable months.
   
 In future, the company can implement highest resources, make most of the advertisements and implement new strategies during these months. Moreover, it will be easier to forecast the revenue for the upcoming years as we can anticipate similar patterns for sales and profit. Clearly, October, November and December are yielding highest revenue and profit to the company.
@@ -56,6 +58,7 @@ In future, the company can implement highest resources, make most of the adverti
 ![Sales and Profit over the quarters](https://github.com/user-attachments/assets/12a32215-3dbf-4cf4-ae10-9c99f68ceef2)
 
 + *Most revenue collection and profit generation by Segment*
+
 Out of three customer segments, Consumer segment brings the highest revenue as well as profit, followed by Corporate and Home Office in absolute value.
 
 However, Profit Margin plays an important role in deciding which segment is the most profitable. Profit Margin is the ratio of Profit to Revenue and it indicates the profitability of any product. Surprisingly, Home Office brings most of the profit followed by Corporate and Consumer. 
@@ -63,6 +66,7 @@ However, Profit Margin plays an important role in deciding which segment is the 
 ![sales,profit and profit margin by segment](https://github.com/user-attachments/assets/2cddc3f6-cb18-43de-9722-afab468b27b2)
 
 + *Most revenue collection and profit generation by Region*
+
 West has the highest sales overall. East is also looking promising. Hence, any new product can get most traction from west and east and it will be interesting to see the customer response to new products.
 
 Similarly, West generates the most of the profit followed by East. However, it’s quite surprising to see that despite Central generating more revenue than south, it’s way behind South in terms of profit. Central region is quite alarming and greater attention has to be paid to this region to identify the reason of low profits.
@@ -76,6 +80,7 @@ To reaffirm the above analysis, it’s interesting to have a look at profit marg
 ![sales, profit and profit margin by region](https://github.com/user-attachments/assets/a250b3fd-6e63-438f-9de1-dbbcdd2d5776)
 
 + *Top 10 States by Sales and Profits*
+
 Below chart shows that the highest selling state is California contributing the most to the West to be the most profitable region followed by New York, Texas and so on.
 
 ![top 10 states by sales](https://github.com/user-attachments/assets/8595574e-275b-4b9d-af24-583a2587a299)
@@ -89,6 +94,7 @@ Looking at the profit, California secures the first position, followed by New Yo
 The above table gives brief idea on how the states are converting sales into profit. States such as Texas, Pennsylvania, Illinois and Ohio are loss making and they need immediate attention to improve it. 
 
 + *Bottom 10 States by Sales and Profits*
+
 Below shows the Lowest selling state North Dakota followed by West Virginia and so on. Further analysis will be carried out on which products are getting sold in these states in order to understand the market demand better.
 
 ![bottom 10 state by sale](https://github.com/user-attachments/assets/fdfcd168-ecd8-47fb-abf6-dd8dc143490d)
@@ -102,6 +108,7 @@ Most alarming state is Texas where we see highest loss despite generating $169k.
 Despite being in bottom 10 states by sales and profit in absolute terms, most of them have higher profitability than that of top 10 states by sales and profit. This gives us the indication to expand more in these states in order to increase profitability of the company.
 
 + *Top 10 Cities by Sales and Profits*
+
 Below bar plot shows the top 10 cities by sales where New York city sits at the top followed by Los Angeles, Seattle. This is quite obvious as these are more populous cities than others making it bringing more sales to the company.
 
 ![top 10 cities by sale](https://github.com/user-attachments/assets/472e7a82-1ad1-49be-bf14-3f19165f8c23)
@@ -121,6 +128,7 @@ There is no data available whether the lowest sales operating cities have physic
 The above chart shows highest loss-making cities where 4 cities from Texas (Houston, San Antonio, Lancaster and Dallas) are making moderate to high loss.
 
 + *Sales and profit by Product Category*
+
 It’s quite important to understand which product is bringing the highest revenue overall. Technology products are most sold followed by Furniture and Office Supplies.
 
 ![Revenue by category](https://github.com/user-attachments/assets/f3f260d5-e141-432c-88c6-87cbfe8b26d8)
@@ -130,6 +138,7 @@ It’s quite important to understand which product is bringing the highest reven
 From Profit perspective, Technology still stands at first. However, Office Supplies yield more profit than Furniture despite the fact that the reverse is true for sales. It would be interesting to find why Furniture is low profitable and which sub category is yielding lowest profit. 
 
 + *Sales and profit by Product Sub Category*
+
 Below snippet gives a good overview on which products are lucrative to the business and which products need attention. 
 No wonder why Technology is at the top in terms of all the three attributes i.e. Sales, Profit and Profit margins. All the subcategories of Technology yield moderate to high sales as well as profits.
 
@@ -140,6 +149,7 @@ Lastly, Furniture doing well in terms of sales but fails to convert it into prof
 ![sale, profit and profit margin by subcategory](https://github.com/user-attachments/assets/147e439e-2ec9-4d00-81f2-2270feff8613)
 
 + *Sales by Ship Mode*
+
 Below bar chart shows the total sale by ship mode: Standard class, First Class, Second class and Same Day.
 
 Average days for each shipment class is also mentioned. 
@@ -149,6 +159,7 @@ Average days for each shipment class is also mentioned.
 ![avg days by shipmode](https://github.com/user-attachments/assets/e30a61ca-9826-47b9-a87c-5975369d58e9)
 
 + *Total customers and market penetration*
+
 We have total 793 customers in United States. This figure along with market size (preferably bottom up approach) can suggest us to the intensity at which the market penetration should be done in order to capture the market.
 
 ## Conclusion
