@@ -40,7 +40,7 @@ There are 11 rows with null values in the column Postal Code. I have removed suc
 ## Analysis
 + *Sales and Profit over the years*
 
-  Below table and the line graph (trend line) shows the sales and profit in USD. Staring with USD 480k, the sale has increased to USD 721k.There is a slight drop in the total sales in 2016 but it has steadily increased thereafter. The sale has been increased by 50% over the course of 3 years.
+Below table and the line graph (trend line) shows the sales and profit in USD. Staring with USD 480k, the sale has increased to USD 721k.There is a slight drop in the total sales in 2016 but it has steadily increased thereafter. The sale has been increased by 50% over the course of 3 years.
   
 The profit has been steadily increased, even in the year 2016 where there is a decline in sales. The profit looks quite promising over the years.
 
@@ -166,6 +166,32 @@ We have total 793 customers in United States. This figure along with market size
 
 
 •	Sales and profits have shown steady increase (except sales in 2016) over 3 years and gained 50% more sales in 2018 compared to 2015. We should keep going in the upcoming years.
+
+•	Evidently, quarter 4 i.e. October, November and December are proven to be most impactful in any year. Hence, we should keep sufficient inventory, intact customer services to meet the market demand and increase promotions, advertisements to gain traction.
+
+•	Breaking down the sales and profit on the basis of segments, consumer is the highest revenue and profit generating in absolute value. However, Home office is most efficient in converting sales into profit. We can focus on Consumer and Corporate to improve the profitability. 
+
+•	Region wise, West outperform all other regions in terms of all three attributes – sales, profit and profit margin. Almost 20% more profit than East which is second highest. East is also doing well in all aspects. Hence, we should keep up the pace with these two. It’s quite strange for central to have low profitability(7.6) than south(11.8) despite better sales(0.49M) than south(0.39M). An immediate attention is to be paid in order to understand the reason for low profitability. 
+
+•	Top revenue generator states are California(446.31K), New York(306.36K) and Texas(168.57K) for obvious reason that they are densely populated. Two of them, California and New York are leading in profits and profitability. But Texas is quite dreadful as its profitability is the least among all. 
+
+•	Top sales and profit-making cities are New York(252.46K), Los Angeles(173.42K), Seattle(116.11K) and San Francisco(109.04K). We should replicate the similar marketing and operating strategies in other low sales cities to expand the business. Cities of Texas such as Houston, San Antonio, Lancaster are loss making. Chicago and Philadelphia should also be evaluated for the same reason.
+
+•	Among all three product categories, Technology is doing great in sales, profits and profitability. Furniture has good sales but low profitability especially for tables and bookcases. The reason can be high labor cost as well as operating cost as it requires big space to keep furniture inventory in the warehouse. 
+
+•	Ship mode plays crucial role in cost related to logistics. Standard class delivers products in 4-5 days and it has highest sales. This piece of information helps us manage logistics and resources in efficient manner especially in quarter 4. 
+
+•	We have total 793 customers over the 3 years. This figure along with market size (preferably bottom up approach) can suggest us to the intensity at which the market penetration should be done in order to capture the market. 
+
+## Future work
+
+•	For Central region, breakdown of profitability on the basis of product and sub product, re-evaluation of operating and overhead expenses can help improve profitability.
+
+•	We should immediately address the reasons causing the Texas’s poor performance.
+
+•	Since Furniture is loss making, a solution to this can be relocating the warehouses to cheaper places in order to reduce rent. Optimization in the expense of transport service can help reduce overhead cost. Office supplies is moderately good.
+
+
 
 
 
