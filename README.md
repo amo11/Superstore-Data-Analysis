@@ -37,3 +37,5 @@ The data contains 9800 rows with 1 row being the header and it has the data for 
 
 There are 11 rows with null values in the column Postal Code. I have removed such rows to get clear and non-null data which leaves us with 9789 rows. Overall the data is quite clean, reliable and consistent as there are no duplicate values found. 
 
+## Analysis
++ *Sales and Profit over the years*
