@@ -112,6 +112,56 @@ Similarly, profit generation also follows the same pattern for top 4 cities. Phi
 
 + *Bottom 10 Cities by Sales and Profits*
 
+![bottom 10 cities by sale](https://github.com/user-attachments/assets/e9bd0394-3b29-4cd5-8465-f518735f2848)
+
+There is no data available whether the lowest sales operating cities have physical Superstores available or the customers in such cities order the products online. This piece of data could have helped up calculate sales per square foot of a particular city which could help build strategies to improve the sales and profitability.
+
+![top 10 loss making cities](https://github.com/user-attachments/assets/fff10131-1ee1-424a-9b0d-bbac69d5687d)
+
+The above chart shows highest loss-making cities where 4 cities from Texas (Houston, San Antonio, Lancaster and Dallas) are making moderate to high loss.
+
++ *Sales and profit by Product Category*
+It’s quite important to understand which product is bringing the highest revenue overall. Technology products are most sold followed by Furniture and Office Supplies.
+
+![Revenue by category](https://github.com/user-attachments/assets/f3f260d5-e141-432c-88c6-87cbfe8b26d8)
+
+![sale,profit and profit margin by category](https://github.com/user-attachments/assets/6c93b815-ae87-4b14-87a9-1410ec4853f6)
+
+From Profit perspective, Technology still stands at first. However, Office Supplies yield more profit than Furniture despite the fact that the reverse is true for sales. It would be interesting to find why Furniture is low profitable and which sub category is yielding lowest profit. 
+
++ *Sales and profit by Product Sub Category*
+Below snippet gives a good overview on which products are lucrative to the business and which products need attention. 
+No wonder why Technology is at the top in terms of all the three attributes i.e. Sales, Profit and Profit margins. All the subcategories of Technology yield moderate to high sales as well as profits.
+
+Secondly, though Office Supplies lags in terms of Sales from Furniture, only one sub category (Supplies) generate loss. A careful attention can convert it into profitable stream. 
+
+Lastly, Furniture doing well in terms of sales but fails to convert it into profits. Chairs is profitable. But Tables and bookcases are responsible for losses. One of the reasons can be high operating expenses.  
+
+![sale, profit and profit margin by subcategory](https://github.com/user-attachments/assets/147e439e-2ec9-4d00-81f2-2270feff8613)
+
++ *Sales by Ship Mode*
+Below bar chart shows the total sale by ship mode: Standard class, First Class, Second class and Same Day.
+
+Average days for each shipment class is also mentioned. 
+
+![sale by shipmode](https://github.com/user-attachments/assets/4ea962bd-c66f-431f-9a4b-b10bda787fdb)
+
+![avg days by shipmode](https://github.com/user-attachments/assets/e30a61ca-9826-47b9-a87c-5975369d58e9)
+
++ *Total customers and market penetration*
+We have total 793 customers in United States. This figure along with market size (preferably bottom up approach) can suggest us to the intensity at which the market penetration should be done in order to capture the market.
+
+## Conclusion
+
+
+•	Sales and profits have shown steady increase (except sales in 2016) over 3 years and gained 50% more sales in 2018 compared to 2015. We should keep going in the upcoming years.
+
+
+
+
+
+
+
 
 
 
