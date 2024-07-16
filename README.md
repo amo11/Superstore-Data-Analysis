@@ -10,3 +10,24 @@ With constant advancement in the technology and increasing competition globally,
 The study uses publicly available data from Kaggle portal [Superstore sales Data](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).
 
 The Superstore dataset contains below variables:
+| <ins> Variables </ins> | <ins> Description </ins> |
+| :-------: | :----------: |
+|  Row ID  | A unique ID for each row |
+| Order ID | Unique order ID for each customer |
+| Order Date | Order Date of the product |
+| Ship Date | Shipping Date of the Product |
+| Ship Mode |  Shipping Mode specified by the Customer |
+| Customer ID |  Unique ID to identify each Customer |
+| Customer Name | Name of the Customer |
+| Segment |  The segment where the Customer belongs |
+| Country | Country of residence of the Customer |
+| City | City of residence of of the Customer |
+| State | State of residence of the Customer  |
+| Postal Code | Postal Code of every Customer |
+| Region | Region where the Customer belong |
+| Product ID | Unique ID of the Product |
+| Category | Category of the product ordered |
+| Sub-Category | Sub-Category of the product ordered |
+| Product Name | Name of the Product |
+| Profit | Profit of the Product|
+| Sales | Sales of the Product |
