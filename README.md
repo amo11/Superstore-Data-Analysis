@@ -39,3 +39,11 @@ There are 11 rows with null values in the column Postal Code. I have removed suc
 
 ## Analysis
 + *Sales and Profit over the years*
+  Below table and the line graph (trend line) shows the sales and profit in USD. Staring with USD 480k, the sale has increased to USD 721k.There is a slight drop in the total sales in 2016 but it has steadily increased thereafter. The sale has been increased by 50% over the course of 3 years.
+  
+The profit has been steadily increased, even in the year 2016 where there is a decline in sales. The profit looks quite promising over the years.
+
+![Sales and Profit over the year](https://github.com/user-attachments/assets/4a9e05aa-f118-4b28-93dd-8786819823d1)
+
+![Sales and Profit over the quarters](https://github.com/user-attachments/assets/f2bcf9f7-e139-466c-94fc-27d6425e4e04)
+
